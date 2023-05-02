@@ -4,10 +4,5 @@ This code was modified to follow accessibiity standars, therefore this site is o
 ## Description
 Marketing Agency Website
 
-
-## Screenshot
-
-
-
 ## Link
 https://marialdinha.github.io/Code-Refactor/
