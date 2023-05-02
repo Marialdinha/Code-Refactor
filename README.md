@@ -10,4 +10,4 @@ Marketing Agency Website
 
 
 ## Link
-https://marialdinha.github.io/Code-Refactor/![image](https://user-images.githubusercontent.com/52983304/235578112-150a69bc-a169-46d6-8bd6-d680e6d5983e.png)
+https://marialdinha.github.io/Code-Refactor/
