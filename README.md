@@ -1,8 +1,13 @@
-# Code-Refactor
-This code was modified to follow accessibiity standars, therefore this site is optimized for search engines.
+
+# 01-Challenge
+Marketing Agency Website
+Code-Refactor
 
 ## Description
-Marketing Agency Website
+This code was modified to follow accessibiity standars, therefore this site is optimized for search engines.
+
+## Table of Contents
+- [Link](#Link)
 
 ## Link
 https://marialdinha.github.io/Code-Refactor/
