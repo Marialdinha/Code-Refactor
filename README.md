@@ -9,11 +9,14 @@ Marketing Agency Website
 
 
 ## Description
-This code was modified to follow accessibiity standars, therefore this site is optimized for search engines.
+This code was modified to follow accessibiity standars, therefore this site is optimized for search engines.  
+
 In this module, I learned about HTM, CSS and GitHub.
 
+
 ## Screenshot
- ![Web page screenshot](./images/code-refactor-Screenshot.png)
+ ![Web page screenshot](https://github.com/Marialdinha/Code-Refactor/blob/main/images/code-refactor-Screenshot%20.png)
+
 
 ## Link
 https://marialdinha.github.io/Code-Refactor/
