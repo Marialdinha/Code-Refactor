@@ -2,10 +2,10 @@
     Title : "Code-Refactor"
     Author: "Marialda Cabral"
 ---
-
+<br /> 
 
 # 01-Challenge
-Marketing Agency Website <br /> <br /> <br />
+Marketing Agency Website <br /> <br />  <br />
 
 
 ## Description
@@ -15,7 +15,7 @@ In this module, I learned about HTM, CSS and GitHub. <br /> <br /> <br />
 
 
 ## Screenshot
- ![Web page screenshot](https://github.com/Marialdinha/Code-Refactor/blob/main/images/code-refactor-Screenshot%20.png) <br /> <br /> <br />
+ ![Web page screenshot](./images/code-refactor-Screenshot%20.png) <br /> <br /> <br />
 
 
 ## Link
