@@ -15,7 +15,7 @@ In this module, I learned about HTM, CSS and GitHub. <br /> <br /> <br />
 
 
 ## Screenshot
- ![Web page screenshot](./images/code-refactor-Screenshot%20.png) <br /> <br /> <br />
+ ![Web page screenshot](./images/code-refactor-Screenshot.png) <br /> <br /> <br />
 
 
 ## Link
