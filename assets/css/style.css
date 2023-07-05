@@ -32,7 +32,7 @@ body {
 }
 
 .header div ul li {
-    display: inline-block;
+    display: inline-block; 
     margin-left: 25px;
 }
 
@@ -76,7 +76,7 @@ p {
     clear: both;
     float: right;
     width: 20%;
-    height: 100%;
+    /* height: 100%; */
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
     height: 940px;
@@ -84,18 +84,16 @@ p {
 
 /* benefit-lead, benefit-brand and benefit-cost grouped toghether */
 .benefit-groupping{
-    margin-bottom: 32px;
+    margin-bottom: 12px;
     color: #ffffff;
 }
 
 .benefit-groupping h3 {
-    margin-bottom: 10px;
     text-align: center;
 }
 
 .benefit-groupping img {
     display: block;
-    margin: 10px auto;
     max-width: 150px;
 }
 
